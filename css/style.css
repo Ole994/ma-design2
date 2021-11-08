@@ -72,7 +72,9 @@ nav {
     width: 80px;
     margin-left: 40px;
     align-items: center;
-}
+    height: 95px;
+    border-radius: 20px;
+    }
 
 
 .logo-div{
@@ -296,6 +298,8 @@ h1{
     background-color: rgb(212, 187, 46);
     width: 200px;
     font-size: large;
+    border-radius: 44px;
+    
 }
 
 .paragraph-description{
